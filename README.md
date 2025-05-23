@@ -1,12 +1,28 @@
 ![HyReza](img/header.png)
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HyReza.HyReza&"  />
+</div>
+
 # Hello World, I am Reza Edi Saputra 👋
 
 I'm a passionate Software Developer specializing in AI, Big Data, and Full Stack Development. I love exploring new technologies and building innovative solutions that solve real-world problems.
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ##### 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Reza Edi Saputra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Reza Edi Saputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rezadev@gmail.com)
+<div align="left">
+  <a href="https://www.linkedin.com/in/reza-edi-saputra" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="rezadev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ##### 💻 Tech Stack:
 
@@ -14,25 +30,61 @@ I'm a passionate Software Developer specializing in AI, Big Data, and Full Stack
 
 ##### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=HyReza&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HyReza&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyReza&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-around;">
+
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=HyReza&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  </div>
+
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=HyReza&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  </div>
+
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyReza&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  </div>
+
+</div>
 
 ##### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=HyReza&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-##### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ##### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=HyReza&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+###
 
-[![](https://visitcount.itsvg.in/api?id=HyReza&icon=0&color=0)](https://visitcount.itsvg.in)
+<h5 align="left">Feel free to listen and enjoy the vibe! 🎵</h5>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31bur3vgb6mlzmizki4wgzwx6lvu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bur3vgb6mlzmizki4wgzwx6lvu&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<h5 align="left">Play Games With Me 🎮</h5>
+
+###
+
+<img src="https://raw.githubusercontent.com/HyReza/HyReza/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HyReza/HyReza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HyReza/HyReza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HyReza/HyReza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+---
 
 ##### 💰 You can help me by Donating
 
