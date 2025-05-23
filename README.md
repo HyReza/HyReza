@@ -60,7 +60,7 @@ I'm a passionate Software Developer specializing in AI, Big Data, and Full Stack
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31bur3vgb6mlzmizki4wgzwx6lvu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bur3vgb6mlzmizki4wgzwx6lvu&count=5&unique=false" alt="Spotify recently played"  />
   </a>
@@ -91,3 +91,50 @@ I'm a passionate Software Developer specializing in AI, Big Data, and Full Stack
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hyreza)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HyReza.HyReza&"  />
+</div>
+
+###
+
+<h5 align="left">🌐 Socials :</h5>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/reza-edi-saputra" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="rezadev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HyReza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HyReza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h5 align="left">Play Games With Me 🎮</h5>
+
+###
+
+<img src="https://raw.githubusercontent.com/HyReza/HyReza/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HyReza/HyReza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HyReza/HyReza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HyReza/HyReza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
